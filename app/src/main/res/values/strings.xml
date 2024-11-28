@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_kd_1</string>
+    <string name="add_product">Pridėti produktą</string>
+    <string name="enter_phone">Įvesti tel. nr.</string>
+    <string name="send_sms">Siųsti SMS</string>
+    <string name="saveMobileNumber">Išsaugoti</string>
+    <string name="phone_number">Telefono numeris</string>
+</resources>
